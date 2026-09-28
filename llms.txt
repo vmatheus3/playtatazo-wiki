@@ -54,6 +54,7 @@ The wiki has 988 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
 - [Picking your class](https://wiki.playtatazo.online/guides/picking-your-class.html): The five paths at Mira's Class Shrine, a trial run at every totem, and the Change of Heart if you pick wrong.
 - [Pip the River Trader](https://wiki.playtatazo.online/guides/pip-the-river-trader.html): The friendly otter who brings goods to your world's market board, and buys fairly priced things when few players are around.
+- [Meet Your Raccoon Helper](https://wiki.playtatazo.online/guides/raccoon-helper.html): A little raccoon that follows you everywhere, carries 50 slots of its own, and can break down, sell and tidy marked items on its own.
 - [Salvage: take old gear apart](https://wiki.playtatazo.online/guides/salvage.html): Turn gear and weapons you don't need into some of the materials they were made from.
 - [Skills that grow with practice](https://wiki.playtatazo.online/guides/skills-that-grow.html): Five tiers for every skill, the titles they earn, and the small bonuses waiting at the top.
 - [Storage: satchel, chests, the locker and the vault](https://wiki.playtatazo.online/guides/storage.html): Growing your satchel, the chest ladder up to the Home Vault, the town locker, and opening your vault from afar.
