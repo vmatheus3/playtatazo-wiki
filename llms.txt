@@ -32,6 +32,7 @@ The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; 
 - [Festivals](https://wiki.playtatazo.online/guides/festivals.html): When the village throws a party, how to join in, and the cake everyone gets.
 - [Fishing](https://wiki.playtatazo.online/guides/fishing.html): Rods, bait, where and when each fish bites, and the legends of the river.
 - [Making friends](https://wiki.playtatazo.online/guides/friendship.html): Talk, give gifts and hear their stories. What each villager loves, and what friends get.
+- [Game modes: pick your kind of world](https://wiki.playtatazo.online/guides/game-modes.html): Adventure, Explore, Survival, Cozy, Creative and Hardcore: what each world type changes, who it suits, and how to mix your own.
 - [Getting around, and animal friends](https://wiki.playtatazo.online/guides/getting-around.html): Roads, gliders, canoes, the Sky Rower, ferries, ziplines, fast travel, capybara friends and horses.
 - [Getting started](https://wiki.playtatazo.online/guides/getting-started.html): Your first hour in the valley, step by step.
 - [Graphics settings](https://wiki.playtatazo.online/guides/graphics-settings.html): A preset for every kind of machine, and a switch for each heavy thing the world draws.
