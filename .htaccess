@@ -1,0 +1,4 @@
+# Added by scripts/build-sites.sh
+RedirectMatch 404 /\.(git|github|DS_Store)(/|$)
+Options -Indexes
+ErrorDocument 404 /404.html

@@ -1,0 +1,91 @@
+# The TATAZO wiki
+
+> The official wiki of TATAZO, a fun family open-world adventure game for PC (in development; launch date to be announced). It lists every item, creature, recipe, realm and class in the game, with guides for new players and tales of the world. Game site: https://playtatazo.online/
+
+The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; search runs in the browser.
+
+## Sections
+
+- [Items](https://wiki.playtatazo.online/items/index.html): Every item in TATAZO: materials, tools, weapons, armour, food and more.
+- [Creatures](https://wiki.playtatazo.online/creatures/index.html): Every creature in TATAZO by realm: levels, weaknesses, drops and stories.
+- [Classes](https://wiki.playtatazo.online/classes/index.html): The five classes of TATAZO and their abilities.
+- [Realms](https://wiki.playtatazo.online/realms/index.html): The realms of TATAZO: from the Riverlands to the Dragonfire Isle.
+- [Recipes](https://wiki.playtatazo.online/recipes/index.html): Every recipe in TATAZO by crafting station.
+- [Bosses](https://wiki.playtatazo.online/bosses.html): The world bosses and mini-bosses of TATAZO.
+- [Guides](https://wiki.playtatazo.online/guides/index.html): Guides to playing TATAZO.
+- [Tales](https://wiki.playtatazo.online/tales/index.html): Stories from the world of TATAZO.
+
+## Guides
+
+- [Building and waterworks](https://wiki.playtatazo.online/guides/building-and-waterworks.html): Houses, stations, land claims, blueprints, and making water do the work.
+- [Building your town](https://wiki.playtatazo.online/guides/building-your-town.html): Decorate your own land with houses, market stalls, wagons and landmarks: the free starter set and the building packs.
+- [The Calm Aura](https://wiki.playtatazo.online/guides/calm-aura.html): Ten peaceful minutes for building and exploring, whenever you need them.
+- [Combat and elements](https://wiki.playtatazo.online/guides/combat-and-elements.html): How hits land, what elements do, and how to read a creature's attack.
+- [Continents and danger](https://wiki.playtatazo.online/guides/continents-and-danger.html): Eight lands in one ocean, how strong the creatures are on each, and how to read the map.
+- [Crafting: discover recipes and make anything](https://wiki.playtatazo.online/guides/crafting.html): How recipes are discovered, what the "?" ingredient means, stations, crafting from nearby chests, friends who help, and the wiki link in every recipe.
+- [Knocked out and getting up](https://wiki.playtatazo.online/guides/death-and-getting-up.html): What happens when your health runs out, and how each kind of world treats it.
+- [Diving and air](https://wiki.playtatazo.online/guides/diving-and-air.html): How to dive, how long your air lasts, and what waits at the bottom.
+- [Duck Mines](https://wiki.playtatazo.online/guides/duck-mines.html): A little duck village a short walk from home: a mine, a curral, a wood stove full of corn dishes, and the story of its name.
+- [Explore worlds](https://wiki.playtatazo.online/guides/explore-worlds.html): No levels, and creatures that never attack: roam, discover and craft at your own pace.
+- [Family safety features](https://wiki.playtatazo.online/guides/family-safety.html): What the game does to keep play friendly, and the controls grown-ups have.
+- [Farming and cooking](https://wiki.playtatazo.online/guides/farming-and-cooking.html): Till, plant, water, harvest, and cook meals that keep you going.
+- [Festivals](https://wiki.playtatazo.online/guides/festivals.html): When the village throws a party, how to join in, and the cake everyone gets.
+- [Fishing](https://wiki.playtatazo.online/guides/fishing.html): Rods, bait, where and when each fish bites, and the legends of the river.
+- [Making friends](https://wiki.playtatazo.online/guides/friendship.html): Talk, give gifts and hear their stories. What each villager loves, and what friends get.
+- [Getting around, and animal friends](https://wiki.playtatazo.online/guides/getting-around.html): Roads, gliders, canoes, the Sky Rower, ferries, ziplines, fast travel, capybara friends and horses.
+- [Getting started](https://wiki.playtatazo.online/guides/getting-started.html): Your first hour in the valley, step by step.
+- [Graphics settings](https://wiki.playtatazo.online/guides/graphics-settings.html): A preset for every kind of machine, and a switch for each heavy thing the world draws.
+- [Level sync and parties](https://wiki.playtatazo.online/guides/level-sync-and-parties.html): Play together at any level. Share the XP, share the fun.
+- [Levels and power](https://wiki.playtatazo.online/guides/levels-and-power.html): Every level makes you stronger. Past level 130, every level makes you much stronger.
+- [Rill's make-believe at home](https://wiki.playtatazo.online/guides/make-believe-home-and-village.html): The Blanket Fort, the Crate Rocket, the Tin-Can Telephone, the Garden Knight and the Treehouse Club.
+- [Make-believe machines](https://wiki.playtatazo.online/guides/make-believe-machines.html): Two of Rill's Make-Believe Workshop quests. Race a home-made cart down the hill with medicine for Mira, and build a giant marble run that rings a flood warning.
+- [Rill's make-believe out in the realms](https://wiki.playtatazo.online/guides/make-believe-out-in-the-realms.html): The Treasure Map, the Snow Fort, the Sandcastle and the Tide, the Creek Dam and The Floor Is Lava!
+- [Make-believe: boats, kites and stars](https://wiki.playtatazo.online/guides/make-believe-small-mechanics.html): Three of Rill's make-believe quests: race leaf boats down the river, fly a kite from a windy hill, and chart the stars from your own moon base.
+- [Rill's water rides](https://wiki.playtatazo.online/guides/make-believe-water-rides.html): The Washtub Boat that sails with the wind, and the Barrel Diver that takes you to the bottom of the deep.
+- [The market and trading](https://wiki.playtatazo.online/guides/market-and-trading.html): Orange coins, the market board, trading face to face, gifts, and staying fair.
+- [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
+- [Salvage: take old gear apart](https://wiki.playtatazo.online/guides/salvage.html): Turn gear and weapons you don't need into some of the materials they were made from.
+- [Storage: satchel, chests, the locker and the vault](https://wiki.playtatazo.online/guides/storage.html): Growing your satchel, the chest ladder up to the Home Vault, the town locker, and opening your vault from afar.
+- [Survival worlds](https://wiki.playtatazo.online/guides/survival-worlds.html): Hunger, thirst, cold and heat, graves and worn gear: a world that pushes back.
+- [The dash](https://wiki.playtatazo.online/guides/the-dash.html): Everyone's quick burst, on land and in water.
+- [The gear ladder](https://wiki.playtatazo.online/guides/the-gear-ladder.html): Crafted gear to level 35, dropped gear to 70, master-crafted gear from 75.
+- [The Old Warden's fight](https://wiki.playtatazo.online/guides/the-old-wardens-fight.html): Seven crystals on a dragon's back, seven friends on seven plates, and one heart to calm.
+- [The Travelling Pedlar](https://wiki.playtatazo.online/guides/the-travelling-pedlar.html): Call Pemberton the pedlar and his donkey Parsnip to wherever you are, and trade at town prices without the walk back.
+- [Things to discover](https://wiki.playtatazo.online/guides/things-to-discover.html): Explorers' camps, buried treasure, fossil digs, nests, lookouts, dawn and dusk blooms, rain finds, the travelling merchant, lost pets, mending wells and bridges, and the storylines on the notice boards.
+- [Towns and townsfolk](https://wiki.playtatazo.online/guides/towns-and-townsfolk.html): The towns in every land, what's in them, the people who live there and how to talk to them.
+
+## Tales
+
+- [The Drake in the Crater](https://wiki.playtatazo.online/tales/caldera-drake.html): A young cousin of the dragons, warming itself in the Ember Wastes' volcanoes.
+- [The Deep Serpent's Pearl](https://wiki.playtatazo.online/tales/deep-serpent.html): A long, shining serpent of the deep water, and the sailors' stories behind it.
+- [Goliath of the Lagoon](https://wiki.playtatazo.online/tales/goliath.html): The giant crab who kept the tide, and why he still rises from the water.
+- [Mother Morel, Grandmother of the Hollow](https://wiki.playtatazo.online/tales/mother-morel.html): The oldest mushroom in Glowcap Hollow, and the web of threads beneath it.
+- [The Oak That Pulled Up Its Roots](https://wiki.playtatazo.online/tales/old-hollow-oak.html): A thousand-year-old oak who went for a walk when the Gloom came, and never stopped.
+- [The Rime Wyrm's Long Trail](https://wiki.playtatazo.online/tales/rime-wyrm.html): Why the Frostlands are crossed by glittering paths, and what the old serpent guards.
+- [The Guardian Who Forgot Its Riddles](https://wiki.playtatazo.online/tales/sphinx-automaton.html): A stone-and-bronze guardian of the desert, and the riddles it used to ask.
+- [The Dragon Tower](https://wiki.playtatazo.online/tales/the-dragon-tower.html): Aurendrake, the Old Warden, and the seven wards it chose to share.
+- [The Gloom and the River](https://wiki.playtatazo.online/tales/the-gloom-and-the-river.html): Why the creatures of the valley are calmed and never hurt, as the old gators tell it.
+- [The Primeval Isle, from a Naturalist's Notebook](https://wiki.playtatazo.online/tales/the-primeval-isle.html): What is real about the island's dinosaurs, and what is only a game.
+- [The Tyrant of the Primeval Isle](https://wiki.playtatazo.online/tales/tyrannosaurus.html): The biggest animal on the island, and what real scientists know about Tyrannosaurus rex.
+
+## Realms
+
+- [Autumn Woods](https://wiki.playtatazo.online/realms/autumn.html): Autumn Woods: Golden and russet woods on rolling hills, full of acorns, antlers and bramble.
+- [Deep water](https://wiki.playtatazo.online/realms/deep.html): Deep water: Lakes, rivers and seas more than 2.5 m deep, in every realm where the water is not frozen or molten.
+- [Sunscorch Desert](https://wiki.playtatazo.online/realms/desert.html): Sunscorch Desert: Long dunes under a hard sun, with oases in the hollows and old fossils in the sand.
+- [Dragonfire Isle](https://wiki.playtatazo.online/realms/dragon.html): Dragonfire Isle: A smoking island far out at sea. Dragons circle the Dragon Tower, and something with seven heads waits on top.
+- [Ember Wastes](https://wiki.playtatazo.online/realms/ember.html): Ember Wastes: Ash plains, basalt and smoking volcano cones. The glowing lava crusts burn: keep off them.
+- [Frostlands](https://wiki.playtatazo.online/realms/frost.html): Frostlands: Snowfields, pine woods and glacier peaks; the lakes freeze hard enough to walk on. Pack warm.
+- [Glowcap Hollow](https://wiki.playtatazo.online/realms/glowcap.html): Glowcap Hollow: Violet moss and mushrooms taller than houses; at dusk the whole hollow glows.
+- [Primeval Isle](https://wiki.playtatazo.online/realms/primeval.html): Primeval Isle: An island in its own sea where dinosaurs still roam. A naturalist's camp studies them.
+- [Riverlands](https://wiki.playtatazo.online/realms/riverlands.html): Riverlands: The river country: jungle, meadows, wetlands and sandstone mesas. Home.
+- [Zombie Land](https://wiki.playtatazo.online/realms/zombie.html): Zombie Land: Misty graveyards and black bogs where the Gloom woke the dead. Zombies shamble, bones rattle; holy and fire light the way.
+
+## Classes
+
+- [Knight](https://wiki.playtatazo.online/classes/knight.html): Knight: Shields friends with a turtle shell, raises coffer walls that hold the Gloom back, braces everyone near.
+- [Mage](https://wiki.playtatazo.online/classes/mage.html): Mage: Clean-water bolts that cleanse the Gloom and heal friends, ice bridges over the river, healing rain.
+- [Monster](https://wiki.playtatazo.online/classes/monster.html): Monster: Calls the river critters you helped restore to fight beside you; later, poof: a round river beast.
+- [Ninja](https://wiki.playtatazo.online/classes/ninja.html): Ninja: Dashes that cleanse small creatures from behind, great leaps into the canopy, deep dives, vanishing.
+- [Rookie](https://wiki.playtatazo.online/classes/rookie.html): Rookie: the starting class
+- [Shooter](https://wiki.playtatazo.online/classes/shooter.html): Shooter: Seed pods from afar that sprout reeds, marks that make the whole party hit harder, long line shots.
