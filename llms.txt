@@ -2,7 +2,7 @@
 
 > The official wiki of TATAZO, a fun family open-world adventure game for PC (in development; launch date to be announced). It lists every item, creature, recipe, realm and class in the game, with guides for new players and tales of the world. Game site: https://playtatazo.online/
 
-The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; search runs in the browser.
+The wiki has 988 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
 
 ## Sections
 
@@ -17,6 +17,7 @@ The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; 
 
 ## Guides
 
+- ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life. Bring your gator, set a score, and beat your friends.
 - [Building and waterworks](https://wiki.playtatazo.online/guides/building-and-waterworks.html): Houses, stations, land claims, blueprints, and making water do the work.
 - [Building your town](https://wiki.playtatazo.online/guides/building-your-town.html): Decorate your own land with houses, market stalls, wagons and landmarks: the free starter set and the building packs.
 - [The Calm Aura](https://wiki.playtatazo.online/guides/calm-aura.html): Ten peaceful minutes for building and exploring, whenever you need them.
