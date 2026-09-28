@@ -25,11 +25,13 @@ The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; 
 - [Crafting: discover recipes and make anything](https://wiki.playtatazo.online/guides/crafting.html): How recipes are discovered, what the "?" ingredient means, stations, crafting from nearby chests, friends who help, and the wiki link in every recipe.
 - [Knocked out and getting up](https://wiki.playtatazo.online/guides/death-and-getting-up.html): What happens when your health runs out, and how each kind of world treats it.
 - [Diving and air](https://wiki.playtatazo.online/guides/diving-and-air.html): How to dive, how long your air lasts, and what waits at the bottom.
+- [Dr. Fernwhistle's dinosaur field course](https://wiki.playtatazo.online/guides/dr-fernwhistles-field-course.html): Study, photograph and calm real dinosaurs on the Primeval Isle, from your first Parasaurolophus to the island's own Tyrannosaurus rex.
 - [Duck Mines](https://wiki.playtatazo.online/guides/duck-mines.html): A little duck village a short walk from home: a mine, a curral, a wood stove full of corn dishes, and the story of its name.
 - [Explore worlds](https://wiki.playtatazo.online/guides/explore-worlds.html): No levels, and creatures that never attack: roam, discover and craft at your own pace.
 - [Family safety features](https://wiki.playtatazo.online/guides/family-safety.html): What the game does to keep play friendly, and the controls grown-ups have.
 - [Farming and cooking](https://wiki.playtatazo.online/guides/farming-and-cooking.html): Till, plant, water, harvest, and cook meals that keep you going.
 - [Festivals](https://wiki.playtatazo.online/guides/festivals.html): When the village throws a party, how to join in, and the cake everyone gets.
+- [Building in a fight: field barricades](https://wiki.playtatazo.online/guides/field-barricades.html): Drop a barricade to hold the line, wherever a fight is getting away from you.
 - [Fishing](https://wiki.playtatazo.online/guides/fishing.html): Rods, bait, where and when each fish bites, and the legends of the river.
 - [Friendly duels and the training yard](https://wiki.playtatazo.online/guides/friendly-duels.html): Challenge a friend who agrees to a duel, and practise hits and abilities on the safe training dummy.
 - [Making friends](https://wiki.playtatazo.online/guides/friendship.html): Talk, give gifts and hear their stories. What each villager loves, and what friends get.
@@ -37,8 +39,10 @@ The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; 
 - [Getting around, and animal friends](https://wiki.playtatazo.online/guides/getting-around.html): Roads, gliders, canoes, the Sky Rower, ferries, ziplines, fast travel, capybara friends and horses.
 - [Getting started](https://wiki.playtatazo.online/guides/getting-started.html): Your first hour in the valley, step by step.
 - [Graphics settings](https://wiki.playtatazo.online/guides/graphics-settings.html): A preset for every kind of machine, and a switch for each heavy thing the world draws.
+- [Item powers: gear with a will of its own](https://wiki.playtatazo.online/guides/item-powers.html): Named gear with powers of its own, and the Glowstone Font that gives a plain piece one.
 - [Level sync and parties](https://wiki.playtatazo.online/guides/level-sync-and-parties.html): Play together at any level. Share the XP, share the fun.
 - [Levels and power](https://wiki.playtatazo.online/guides/levels-and-power.html): Every level makes you stronger. Past level 130, every level makes you much stronger.
+- [Lucky drops and rarity](https://wiki.playtatazo.online/guides/lucky-drops-and-rarity.html): How rare finds work, the odds of master gear from every tier, and the help the game gives when luck runs dry.
 - [Rill's make-believe at home](https://wiki.playtatazo.online/guides/make-believe-home-and-village.html): The Blanket Fort, the Crate Rocket, the Tin-Can Telephone, the Garden Knight and the Treehouse Club.
 - [Make-believe machines](https://wiki.playtatazo.online/guides/make-believe-machines.html): Two of Rill's Make-Believe Workshop quests. Race a home-made cart down the hill with medicine for Mira, and build a giant marble run that rings a flood warning.
 - [Rill's make-believe out in the realms](https://wiki.playtatazo.online/guides/make-believe-out-in-the-realms.html): The Treasure Map, the Snow Fort, the Sandcastle and the Tide, the Creek Dam and The Floor Is Lava!
@@ -47,7 +51,10 @@ The wiki has 982 items, 83 creatures and 628 recipes. Every page is plain HTML; 
 - [The market and trading](https://wiki.playtatazo.online/guides/market-and-trading.html): Orange coins, the market board, trading face to face, gifts, and staying fair.
 - [Orange coins: earning and spending](https://wiki.playtatazo.online/guides/orange-coins.html): Where the valley's coins come from, and the good things worth spending them on.
 - [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
+- [Picking your class](https://wiki.playtatazo.online/guides/picking-your-class.html): The five paths at Mira's Class Shrine, a trial run at every totem, and the Change of Heart if you pick wrong.
+- [Pip the River Trader](https://wiki.playtatazo.online/guides/pip-the-river-trader.html): The friendly otter who brings goods to your world's market board, and buys fairly priced things when few players are around.
 - [Salvage: take old gear apart](https://wiki.playtatazo.online/guides/salvage.html): Turn gear and weapons you don't need into some of the materials they were made from.
+- [Skills that grow with practice](https://wiki.playtatazo.online/guides/skills-that-grow.html): Five tiers for every skill, the titles they earn, and the small bonuses waiting at the top.
 - [Storage: satchel, chests, the locker and the vault](https://wiki.playtatazo.online/guides/storage.html): Growing your satchel, the chest ladder up to the Home Vault, the town locker, and opening your vault from afar.
 - [Survival worlds](https://wiki.playtatazo.online/guides/survival-worlds.html): Hunger, thirst, cold and heat, graves and worn gear: a world that pushes back.
 - [The dash](https://wiki.playtatazo.online/guides/the-dash.html): Everyone's quick burst, on land and in water.
