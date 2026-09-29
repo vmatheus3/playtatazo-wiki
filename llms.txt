@@ -6,7 +6,7 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 ## Sections
 
-- [Items](https://wiki.playtatazo.online/items/index.html): Every item in TATAZO: materials, tools, weapons, armour, food and more.
+- [Items](https://wiki.playtatazo.online/items/index.html): Every item in TATAZO by kind: weapons, body gear, accessories, tools, materials, food, seeds, fish and building pieces.
 - [Creatures](https://wiki.playtatazo.online/creatures/index.html): Every creature in TATAZO by realm: levels, weaknesses, drops and stories.
 - [Classes](https://wiki.playtatazo.online/classes/index.html): The five classes of TATAZO and their abilities.
 - [Realms](https://wiki.playtatazo.online/realms/index.html): The realms of TATAZO: from the Riverlands to the Dragonfire Isle.

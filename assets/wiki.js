@@ -262,6 +262,30 @@
           r.hidden = !words.every(function (w) { return text.indexOf(w) >= 0; });
         });
       });
+      // A phone shows the table as cards, with no header to tap: a "Sort by" menu drives the same header clicks.
+      var heads = table.querySelectorAll('th[data-sort]');
+      if (table.classList.contains('stack') && heads.length > 1) {
+        var sel = document.createElement('select');
+        sel.className = 'tsort';
+        sel.setAttribute('aria-label', 'Sort this list');
+        sel.innerHTML = '<option value="">Sort by\u2026</option>';
+        Array.prototype.forEach.call(heads, function (th, n) {
+          var name = th.textContent.replace(/[\u21c5\s]+$/, ''), isNum = th.getAttribute('data-sort') === 'num';
+          [isNum ? ['desc', 'high to low'] : ['asc', 'A to Z'], isNum ? ['asc', 'low to high'] : ['desc', 'Z to A']].forEach(function (d) {
+            var o = document.createElement('option');
+            o.value = n + ':' + d[0];
+            o.textContent = name + ', ' + d[1];
+            sel.appendChild(o);
+          });
+        });
+        input.parentNode.insertBefore(sel, input.nextSibling);
+        sel.addEventListener('change', function () {
+          if (!sel.value) return;
+          var bits = sel.value.split(':'), th = heads[+bits[0]];
+          th.setAttribute('data-dir', bits[1] === 'asc' ? 'desc' : 'asc');
+          th.click();
+        });
+      }
     });
     Array.prototype.forEach.call(document.querySelectorAll('table.list th[data-sort]'), function (th) {
       th.tabIndex = 0;
