@@ -18,13 +18,18 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 ## Guides
 
 - ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
+- [Auto-attack, target lock and bite](https://wiki.playtatazo.online/guides/auto-attack-target-lock-and-bite.html): Choose a creature, keep your aim, and let Tatazo fight with care.
+- [Beds and respawn points](https://wiki.playtatazo.online/guides/beds-and-respawn-points.html): Set a home, sleep through the night together, and know where Tatazo gets back up.
+- [Blueprints](https://wiki.playtatazo.online/guides/blueprints.html): Save a build you love, then raise it again wherever there is room.
 - [Building and waterworks](https://wiki.playtatazo.online/guides/building-and-waterworks.html): Houses, stations, land claims, blueprints, and making water do the work.
 - [Building your town](https://wiki.playtatazo.online/guides/building-your-town.html): Decorate your own land with houses, market stalls, wagons and landmarks: the free starter set and the building packs.
 - [The Calm Aura](https://wiki.playtatazo.online/guides/calm-aura.html): Ten peaceful minutes for building and exploring, whenever you need them.
 - [Combat and elements](https://wiki.playtatazo.online/guides/combat-and-elements.html): How hits land, what elements do, and how to read a creature's attack.
 - [Continents and danger](https://wiki.playtatazo.online/guides/continents-and-danger.html): Eight lands in one ocean, how strong the creatures are on each, and how to read the map.
+- [Controls, hotbar and tool wheel](https://wiki.playtatazo.online/guides/controls-hotbar-and-tool-wheel.html): Keep your hands ready: skills, supplies, tools and your weapon all have a clear place.
 - [Crafting: discover recipes and make anything](https://wiki.playtatazo.online/guides/crafting.html): How recipes are discovered, what the "?" ingredient means, stations, crafting from nearby chests, friends who help, and the wiki link in every recipe.
 - [Knocked out and getting up](https://wiki.playtatazo.online/guides/death-and-getting-up.html): What happens when your health runs out, and how each kind of world treats it.
+- [Decor and building packs](https://wiki.playtatazo.online/guides/decor-and-building-packs.html): Free town pieces, owned building packs, and choosing the right look for a place you love.
 - [Diving and air](https://wiki.playtatazo.online/guides/diving-and-air.html): How to dive, how long your air lasts, and what waits at the bottom.
 - [Dr. Fernwhistle's dinosaur field course](https://wiki.playtatazo.online/guides/dr-fernwhistles-field-course.html): Study, photograph and calm real dinosaurs on the Primeval Isle, from your first Parasaurolophus to the island's own Tyrannosaurus rex.
 - [Duck Mines](https://wiki.playtatazo.online/guides/duck-mines.html): A little duck village a short walk from home: a mine, a curral, a wood stove full of corn dishes, and the story of its name.
@@ -41,15 +46,20 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Getting started](https://wiki.playtatazo.online/guides/getting-started.html): Your first hour in the valley, step by step.
 - [Graphics settings](https://wiki.playtatazo.online/guides/graphics-settings.html): A preset for every kind of machine, and a switch for each heavy thing the world draws.
 - [Hero's Health and Mana Potions](https://wiki.playtatazo.online/guides/heros-potions.html): Two store potions that never run dry — a strong heal or a big mana refill, on their own cooldown, for good.
+- [Hosting, visitors and password worlds](https://wiki.playtatazo.online/guides/hosting-visitors-and-password-worlds.html): Invite friends into your world, choose who may change it, and use a password when you need a quiet door.
+- [Item pickup feed and Never pick up](https://wiki.playtatazo.online/guides/item-pickup-feed-and-never-pick-up.html): See what came home with you, and leave the things you do not want for someone else.
 - [Item powers: gear with a will of its own](https://wiki.playtatazo.online/guides/item-powers.html): Named gear with powers of its own, and the Glowstone Font that gives a plain piece one.
+- [Land claims and permissions](https://wiki.playtatazo.online/guides/land-claims-and-permissions.html): Make a patch of the world your home, then welcome friends you trust.
 - [Level sync and parties](https://wiki.playtatazo.online/guides/level-sync-and-parties.html): Play together at any level. Share the XP, share the fun.
 - [Levels and power](https://wiki.playtatazo.online/guides/levels-and-power.html): Every level makes you stronger. Past level 130, every level makes you much stronger.
 - [Lucky drops and rarity](https://wiki.playtatazo.online/guides/lucky-drops-and-rarity.html): How rare finds work, the odds of master gear from every tier, and the help the game gives when luck runs dry.
 - [Rill's make-believe at home](https://wiki.playtatazo.online/guides/make-believe-home-and-village.html): The Blanket Fort, the Crate Rocket, the Tin-Can Telephone, the Garden Knight and the Treehouse Club.
 - [Make-believe machines](https://wiki.playtatazo.online/guides/make-believe-machines.html): Two of Rill's Make-Believe Workshop quests. Race a home-made cart down the hill with medicine for Mira, and build a giant marble run that rings a flood warning.
 - [Rill's make-believe out in the realms](https://wiki.playtatazo.online/guides/make-believe-out-in-the-realms.html): The Treasure Map, the Snow Fort, the Sandcastle and the Tide, the Creek Dam and The Floor Is Lava!
+- [Make-believe proud moments](https://wiki.playtatazo.online/guides/make-believe-proud-moments.html): The short finale that lets you watch the wonderful thing your imagination quest made possible.
 - [Make-believe: boats, kites and stars](https://wiki.playtatazo.online/guides/make-believe-small-mechanics.html): Three of Rill's make-believe quests: race leaf boats down the river, fly a kite from a windy hill, and chart the stars from your own moon base.
 - [Rill's water rides](https://wiki.playtatazo.online/guides/make-believe-water-rides.html): The Washtub Boat that sails with the wind, and the Barrel Diver that takes you to the bottom of the deep.
+- [Map, minimap, pins and fast travel](https://wiki.playtatazo.online/guides/map-minimap-pins-and-fast-travel.html): Mark a far shore, find your way, and return to places you have earned.
 - [The market and trading](https://wiki.playtatazo.online/guides/market-and-trading.html): Orange coins, the market board, trading face to face, gifts, and staying fair.
 - [Orange coins: earning and spending](https://wiki.playtatazo.online/guides/orange-coins.html): Where the valley's coins come from, and the good things worth spending them on.
 - [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
@@ -57,8 +67,10 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Pip the River Trader](https://wiki.playtatazo.online/guides/pip-the-river-trader.html): The friendly otter who brings goods to your world's market board, and buys fairly priced things when few players are around.
 - [Meet Your Raccoon Helper](https://wiki.playtatazo.online/guides/raccoon-helper.html): A little raccoon that follows you everywhere, carries 50 slots of its own, and can break down, sell and tidy marked items on its own.
 - [Salvage: take old gear apart](https://wiki.playtatazo.online/guides/salvage.html): Turn gear and weapons you don't need into some of the materials they were made from.
+- [Saves, profiles and autosave](https://wiki.playtatazo.online/guides/saves-profiles-and-autosave.html): How worlds, characters and settings are kept safe, and the calm way to leave a session.
 - [Skills that grow with practice](https://wiki.playtatazo.online/guides/skills-that-grow.html): Five tiers for every skill, the titles they earn, and the small bonuses waiting at the top.
 - [Storage: satchel, chests, the locker and the vault](https://wiki.playtatazo.online/guides/storage.html): Growing your satchel, the chest ladder up to the Home Vault, the town locker, and opening your vault from afar.
+- [Storylines, notice boards and weekly tasks](https://wiki.playtatazo.online/guides/storylines-notice-boards-and-weekly-tasks.html): Follow kind stories, help the village, and find a fresh reason to explore.
 - [Survival worlds](https://wiki.playtatazo.online/guides/survival-worlds.html): Hunger, thirst, cold and heat, graves and worn gear: a world that pushes back.
 - [The dash](https://wiki.playtatazo.online/guides/the-dash.html): Everyone's quick burst, on land and in water.
 - [The gear ladder](https://wiki.playtatazo.online/guides/the-gear-ladder.html): Crafted gear to level 35, dropped gear to 70, master-crafted gear from 75.
