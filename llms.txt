@@ -2,7 +2,7 @@
 
 > The official wiki of TATAZO, a fun family open-world adventure game for PC (in development; launch date to be announced). It lists every item, creature, recipe, realm and class in the game, with guides for new players and tales of the world. Game site: https://playtatazo.online/
 
-The wiki has 988 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
+The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
 
 ## Sections
 
@@ -17,7 +17,7 @@ The wiki has 988 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 ## Guides
 
-- ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life. Bring your gator, set a score, and beat your friends.
+- ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
 - [Building and waterworks](https://wiki.playtatazo.online/guides/building-and-waterworks.html): Houses, stations, land claims, blueprints, and making water do the work.
 - [Building your town](https://wiki.playtatazo.online/guides/building-your-town.html): Decorate your own land with houses, market stalls, wagons and landmarks: the free starter set and the building packs.
 - [The Calm Aura](https://wiki.playtatazo.online/guides/calm-aura.html): Ten peaceful minutes for building and exploring, whenever you need them.
@@ -40,6 +40,7 @@ The wiki has 988 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Getting around, and animal friends](https://wiki.playtatazo.online/guides/getting-around.html): Roads, gliders, canoes, the Sky Rower, ferries, ziplines, fast travel, capybara friends and horses.
 - [Getting started](https://wiki.playtatazo.online/guides/getting-started.html): Your first hour in the valley, step by step.
 - [Graphics settings](https://wiki.playtatazo.online/guides/graphics-settings.html): A preset for every kind of machine, and a switch for each heavy thing the world draws.
+- [Hero's Health and Mana Potions](https://wiki.playtatazo.online/guides/heros-potions.html): Two store potions that never run dry — a strong heal or a big mana refill, on their own cooldown, for good.
 - [Item powers: gear with a will of its own](https://wiki.playtatazo.online/guides/item-powers.html): Named gear with powers of its own, and the Glowstone Font that gives a plain piece one.
 - [Level sync and parties](https://wiki.playtatazo.online/guides/level-sync-and-parties.html): Play together at any level. Share the XP, share the fun.
 - [Levels and power](https://wiki.playtatazo.online/guides/levels-and-power.html): Every level makes you stronger. Past level 130, every level makes you much stronger.
