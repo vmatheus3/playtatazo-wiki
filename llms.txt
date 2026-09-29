@@ -61,6 +61,7 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Rill's water rides](https://wiki.playtatazo.online/guides/make-believe-water-rides.html): The Washtub Boat that sails with the wind, and the Barrel Diver that takes you to the bottom of the deep.
 - [Map, minimap, pins and fast travel](https://wiki.playtatazo.online/guides/map-minimap-pins-and-fast-travel.html): Mark a far shore, find your way, and return to places you have earned.
 - [The market and trading](https://wiki.playtatazo.online/guides/market-and-trading.html): Orange coins, the market board, trading face to face, gifts, and staying fair.
+- [Menus and settings: find your way around](https://wiki.playtatazo.online/guides/menus-and-settings.html): The title screen, the mode cards, starting a world, the pause menu and every settings row, with mouse, keyboard or controller.
 - [Orange coins: earning and spending](https://wiki.playtatazo.online/guides/orange-coins.html): Where the valley's coins come from, and the good things worth spending them on.
 - [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
 - [Picking your class](https://wiki.playtatazo.online/guides/picking-your-class.html): The five paths at Mira's Class Shrine, a trial run at every totem, and the Change of Heart if you pick wrong.
