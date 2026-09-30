@@ -17,6 +17,7 @@ The wiki has 995 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 ## Guides
 
+- [Alpha 1.0.1](https://wiki.playtatazo.online/guides/alpha-1-0-1.html): The Wayfinder Gem, a new Play with Friends, walking with the mouse, and a privacy choice for game data.
 - [Alpha 1.0](https://wiki.playtatazo.online/guides/alpha-1-0.html): Your first look at a growing TATAZO world, with new ways to choose, explore and help improve it.
 - [Alpha testers](https://wiki.playtatazo.online/guides/alpha-testers.html): Install the alpha, try the game, and tell us what you find.
 - ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
