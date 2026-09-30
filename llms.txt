@@ -17,7 +17,8 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 ## Guides
 
-- [Alpha testers](https://wiki.playtatazo.online/guides/alpha-testers.html): Your first river journey: install the alpha, try every class, and help us make TATAZO better.
+- [Alpha 1.0](https://wiki.playtatazo.online/guides/alpha-1-0.html): Your first look at a growing TATAZO world, with new ways to choose, explore and help improve it.
+- [Alpha testers](https://wiki.playtatazo.online/guides/alpha-testers.html): Install the alpha, try the game, and tell us what you find.
 - ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
 - [Auto-attack, target lock and bite](https://wiki.playtatazo.online/guides/auto-attack-target-lock-and-bite.html): Choose a creature, keep your aim, and let Tatazo fight with care.
 - [Beds and respawn points](https://wiki.playtatazo.online/guides/beds-and-respawn-points.html): Set a home, sleep through the night together, and know where Tatazo gets back up.
