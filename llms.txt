@@ -17,6 +17,7 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 ## Guides
 
+- [Alpha testers](https://wiki.playtatazo.online/guides/alpha-testers.html): Your first river journey: install the alpha, try every class, and help us make TATAZO better.
 - ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
 - [Auto-attack, target lock and bite](https://wiki.playtatazo.online/guides/auto-attack-target-lock-and-bite.html): Choose a creature, keep your aim, and let Tatazo fight with care.
 - [Beds and respawn points](https://wiki.playtatazo.online/guides/beds-and-respawn-points.html): Set a home, sleep through the night together, and know where Tatazo gets back up.
@@ -61,14 +62,15 @@ The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Rill's water rides](https://wiki.playtatazo.online/guides/make-believe-water-rides.html): The Washtub Boat that sails with the wind, and the Barrel Diver that takes you to the bottom of the deep.
 - [Map, minimap, pins and fast travel](https://wiki.playtatazo.online/guides/map-minimap-pins-and-fast-travel.html): Mark a far shore, find your way, and return to places you have earned.
 - [The market and trading](https://wiki.playtatazo.online/guides/market-and-trading.html): Orange coins, the market board, trading face to face, gifts, and staying fair.
-- [Menus and settings: find your way around](https://wiki.playtatazo.online/guides/menus-and-settings.html): The title screen, the mode cards, starting a world, the pause menu and every settings row, with mouse, keyboard or controller.
+- [Menus and settings: find your way around](https://wiki.playtatazo.online/guides/menus-and-settings.html): The title screen, mode cards, starting a world, pause menu and settings, with mouse, keyboard or controller.
 - [Orange coins: earning and spending](https://wiki.playtatazo.online/guides/orange-coins.html): Where the valley's coins come from, and the good things worth spending them on.
 - [Pets](https://wiki.playtatazo.online/guides/pets.html): Creatures of legend that hatch from charms and fight beside you.
 - [Picking your class](https://wiki.playtatazo.online/guides/picking-your-class.html): The five paths at Mira's Class Shrine, a trial run at every totem, and the Change of Heart if you pick wrong.
 - [Pip the River Trader](https://wiki.playtatazo.online/guides/pip-the-river-trader.html): The friendly otter who brings goods to your world's market board, and buys fairly priced things when few players are around.
-- [Meet Your Raccoon Helper](https://wiki.playtatazo.online/guides/raccoon-helper.html): A little raccoon that follows you everywhere, carries 50 slots of its own, and can break down, sell and tidy marked items on its own.
+- [Meet Your Raccoon Helper](https://wiki.playtatazo.online/guides/raccoon-helper.html): A little raccoon with its own bag, and jobs for breaking down, selling and tidying marked items.
 - [Salvage: take old gear apart](https://wiki.playtatazo.online/guides/salvage.html): Turn gear and weapons you don't need into some of the materials they were made from.
 - [Saves, profiles and autosave](https://wiki.playtatazo.online/guides/saves-profiles-and-autosave.html): How worlds, characters and settings are kept safe, and the calm way to leave a session.
+- [Shop and paid items](https://wiki.playtatazo.online/guides/shop-and-paid-items.html): Optional outfits, building packs and helpers: what each does, its limits, and how family purchase controls work.
 - [Skills that grow with practice](https://wiki.playtatazo.online/guides/skills-that-grow.html): Five tiers for every skill, the titles they earn, and the small bonuses waiting at the top.
 - [Storage: satchel, chests, the locker and the vault](https://wiki.playtatazo.online/guides/storage.html): Growing your satchel, the chest ladder up to the Home Vault, the town locker, and opening your vault from afar.
 - [Storylines, notice boards and weekly tasks](https://wiki.playtatazo.online/guides/storylines-notice-boards-and-weekly-tasks.html): Follow kind stories, help the village, and find a fresh reason to explore.
