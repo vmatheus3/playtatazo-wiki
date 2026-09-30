@@ -2,7 +2,7 @@
 
 > The official wiki of TATAZO, a fun family open-world adventure game for PC (in development; launch date to be announced). It lists every item, creature, recipe, realm and class in the game, with guides for new players and tales of the world. Game site: https://playtatazo.online/
 
-The wiki has 994 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
+The wiki has 995 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
 
 ## Sections
 
