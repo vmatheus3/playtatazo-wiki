@@ -2,7 +2,7 @@
 
 > The official wiki of TATAZO, a fun family open-world adventure game for PC (in development; launch date to be announced). It lists every item, creature, recipe, realm and class in the game, with guides for new players and tales of the world. Game site: https://playtatazo.online/
 
-The wiki has 995 items, 83 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
+The wiki has 995 items, 103 creatures and 630 recipes. Every page is plain HTML; search runs in the browser.
 
 ## Sections
 
@@ -19,11 +19,13 @@ The wiki has 995 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 
 - [Alpha 1.0.1](https://wiki.playtatazo.online/guides/alpha-1-0-1.html): The Wayfinder Gem, a new Play with Friends, walking with the mouse, and a privacy choice for game data.
 - [Alpha 1.0](https://wiki.playtatazo.online/guides/alpha-1-0.html): Your first look at a growing TATAZO world, with new ways to choose, explore and help improve it.
+- [Alpha 1.1](https://wiki.playtatazo.online/guides/alpha-1-1.html): APOCALYPSE moves to Braveheart Basin with guardian trials, daily missions and friends. Dragons breathe fire, a new dragon roams, and the Wayfinder Gem lights your trip.
 - [Alpha testers](https://wiki.playtatazo.online/guides/alpha-testers.html): Install the alpha, try the game, and tell us what you find.
-- ["Apocalypse: how long can you last?"](https://wiki.playtatazo.online/guides/apocalypse.html): A night that never ends, three times the creatures, one life, and weekly prizes for the best on the board.
+- ["Apocalypse: hold the line in Braveheart Basin"](https://wiki.playtatazo.online/guides/apocalypse.html): Start fresh beneath the lanterns, grow stronger through waves, and make three lives count.
 - [Auto-attack, target lock and bite](https://wiki.playtatazo.online/guides/auto-attack-target-lock-and-bite.html): Choose a creature, keep your aim, and let Tatazo fight with care.
 - [Beds and respawn points](https://wiki.playtatazo.online/guides/beds-and-respawn-points.html): Set a home, sleep through the night together, and know where Tatazo gets back up.
 - [Blueprints](https://wiki.playtatazo.online/guides/blueprints.html): Save a build you love, then raise it again wherever there is room.
+- [Braveheart Basin: read the guardian, earn the opening](https://wiki.playtatazo.online/guides/braveheart-guardians.html): Learn the warning shapes, clear the helpers and make every safe opening count.
 - [Building and waterworks](https://wiki.playtatazo.online/guides/building-and-waterworks.html): Houses, stations, land claims, blueprints, and making water do the work.
 - [Building your town](https://wiki.playtatazo.online/guides/building-your-town.html): Decorate your own land with houses, market stalls, wagons and landmarks: the free starter set and the building packs.
 - [The Calm Aura](https://wiki.playtatazo.online/guides/calm-aura.html): Ten peaceful minutes for building and exploring, whenever you need them.
@@ -35,6 +37,7 @@ The wiki has 995 items, 83 creatures and 630 recipes. Every page is plain HTML; 
 - [Decor and building packs](https://wiki.playtatazo.online/guides/decor-and-building-packs.html): Free town pieces, owned building packs, and choosing the right look for a place you love.
 - [Diving and air](https://wiki.playtatazo.online/guides/diving-and-air.html): How to dive, how long your air lasts, and what waits at the bottom.
 - [Dr. Fernwhistle's dinosaur field course](https://wiki.playtatazo.online/guides/dr-fernwhistles-field-course.html): Study, photograph and calm real dinosaurs on the Primeval Isle, from your first Parasaurolophus to the island's own Tyrannosaurus rex.
+- [Dragon fire](https://wiki.playtatazo.online/guides/dragon-fire.html): Every dragon on the Dragonfire Isle breathes fire. Read the cone on the ground and the fire never touches you.
 - [Duck Mines](https://wiki.playtatazo.online/guides/duck-mines.html): A little duck village a short walk from home: a mine, a curral, a wood stove full of corn dishes, and the story of its name.
 - [Explore worlds](https://wiki.playtatazo.online/guides/explore-worlds.html): No levels, and creatures that never attack: roam, discover and craft at your own pace.
 - [Family safety features](https://wiki.playtatazo.online/guides/family-safety.html): What the game does to keep play friendly, and the controls grown-ups have.
